@@ -3,11 +3,11 @@
   <title>我的新博客</title>
   
   <subtitle>分享技术与生活</subtitle>
-  <link href="http://localhost:4000/atom.xml" rel="self"/>
+  <link href="https://suochina.github.io/atom.xml" rel="self"/>
   
-  <link href="http://localhost:4000/"/>
+  <link href="https://suochina.github.io/"/>
   <updated>2025-10-01T18:03:11.559Z</updated>
-  <id>http://localhost:4000/</id>
+  <id>https://suochina.github.io/</id>
   
   <author>
     <name>SuoL</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>testLog</title>
-    <link href="http://localhost:4000/2025/10/02/testLog/"/>
-    <id>http://localhost:4000/2025/10/02/testLog/</id>
+    <link href="https://suochina.github.io/2025/10/02/testLog/"/>
+    <id>https://suochina.github.io/2025/10/02/testLog/</id>
     <published>2025-10-01T18:03:11.000Z</published>
     <updated>2025-10-01T18:03:11.559Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>React Hooks详解</title>
-    <link href="http://localhost:4000/react-hooks-tutorial/"/>
-    <id>http://localhost:4000/react-hooks-tutorial/</id>
+    <link href="https://suochina.github.io/react-hooks-tutorial/"/>
+    <id>https://suochina.github.io/react-hooks-tutorial/</id>
     <published>2025-10-01T17:57:50.000Z</published>
     <updated>2025-10-01T17:57:50.000Z</updated>
     
@@ -41,23 +41,23 @@
     
     
     
-    <category term="技术" scheme="http://localhost:4000/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://suochina.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
-    <category term="前端开发" scheme="http://localhost:4000/categories/%E6%8A%80%E6%9C%AF/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    <category term="前端开发" scheme="https://suochina.github.io/categories/%E6%8A%80%E6%9C%AF/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
     
     
-    <category term="React" scheme="http://localhost:4000/tags/React/"/>
+    <category term="React" scheme="https://suochina.github.io/tags/React/"/>
     
-    <category term="Hooks" scheme="http://localhost:4000/tags/Hooks/"/>
+    <category term="Hooks" scheme="https://suochina.github.io/tags/Hooks/"/>
     
-    <category term="前端" scheme="http://localhost:4000/tags/%E5%89%8D%E7%AB%AF/"/>
+    <category term="前端" scheme="https://suochina.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://localhost:4000/2025/10/02/hello-world/"/>
-    <id>http://localhost:4000/2025/10/02/hello-world/</id>
+    <link href="https://suochina.github.io/2025/10/02/hello-world/"/>
+    <id>https://suochina.github.io/2025/10/02/hello-world/</id>
     <published>2025-10-01T16:48:57.231Z</published>
     <updated>2025-10-01T16:48:57.231Z</updated>
     
@@ -77,8 +77,8 @@
   
   <entry>
     <title>Node.js基础教程</title>
-    <link href="http://localhost:4000/node-js-tutorial/"/>
-    <id>http://localhost:4000/node-js-tutorial/</id>
+    <link href="https://suochina.github.io/node-js-tutorial/"/>
+    <id>https://suochina.github.io/node-js-tutorial/</id>
     <published>2025-09-15T02:30:00.000Z</published>
     <updated>2025-09-20T07:45:00.000Z</updated>
     
@@ -87,16 +87,16 @@
     
     
     
-    <category term="技术" scheme="http://localhost:4000/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://suochina.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
-    <category term="后端开发" scheme="http://localhost:4000/categories/%E6%8A%80%E6%9C%AF/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    <category term="后端开发" scheme="https://suochina.github.io/categories/%E6%8A%80%E6%9C%AF/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
     
     
-    <category term="Node.js" scheme="http://localhost:4000/tags/Node-js/"/>
+    <category term="Node.js" scheme="https://suochina.github.io/tags/Node-js/"/>
     
-    <category term="后端" scheme="http://localhost:4000/tags/%E5%90%8E%E7%AB%AF/"/>
+    <category term="后端" scheme="https://suochina.github.io/tags/%E5%90%8E%E7%AB%AF/"/>
     
-    <category term="JavaScript" scheme="http://localhost:4000/tags/JavaScript/"/>
+    <category term="JavaScript" scheme="https://suochina.github.io/tags/JavaScript/"/>
     
   </entry>
   
