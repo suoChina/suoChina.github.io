@@ -98,11 +98,6 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: butterfly
 
-# Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: ''
-
 # 搜索插件配置
 search:
   path: search.xml
@@ -126,3 +121,9 @@ feed:
 
 # 代码压缩配置
 all_minifier: true
+
+# Deployment
+deploy:
+  type: git
+  repo: https://github.com/suoChina/suoChina.github.io.git
+  branch: main
