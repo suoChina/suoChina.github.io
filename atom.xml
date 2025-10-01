@@ -6,7 +6,7 @@
   <link href="https://suochina.github.io/atom.xml" rel="self"/>
   
   <link href="https://suochina.github.io/"/>
-  <updated>2025-10-01T16:48:57.231Z</updated>
+  <updated>2025-10-01T19:10:18.765Z</updated>
   <id>https://suochina.github.io/</id>
   
   <author>
@@ -15,6 +15,65 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>typora学习</title>
+    <link href="https://suochina.github.io/2025/10/02/typora%E5%AD%A6%E4%B9%A0/"/>
+    <id>https://suochina.github.io/2025/10/02/typora%E5%AD%A6%E4%B9%A0/</id>
+    <published>2025-10-01T19:10:18.000Z</published>
+    <updated>2025-10-01T19:10:18.765Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2025年10月学习规划</title>
+    <link href="https://suochina.github.io/october-learning-plan/"/>
+    <id>https://suochina.github.io/october-learning-plan/</id>
+    <published>2025-10-01T19:00:00.000Z</published>
+    <updated>2025-10-01T19:00:00.000Z</updated>
+    
+    
+    <summary type="html">国庆假期期间的学习规划，包括技术复习和个人技能提升</summary>
+    
+    
+    
+    <category term="规划" scheme="https://suochina.github.io/categories/%E8%A7%84%E5%88%92/"/>
+    
+    
+    <category term="学习规划" scheme="https://suochina.github.io/tags/%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/"/>
+    
+    <category term="技术提升" scheme="https://suochina.github.io/tags/%E6%8A%80%E6%9C%AF%E6%8F%90%E5%8D%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>图片处理示例</title>
+    <link href="https://suochina.github.io/image-handling-example/"/>
+    <id>https://suochina.github.io/image-handling-example/</id>
+    <published>2025-10-01T18:50:00.000Z</published>
+    <updated>2025-10-01T18:50:00.000Z</updated>
+    
+    
+    <summary type="html">演示Hexo博客中图片处理的最佳实践</summary>
+    
+    
+    
+    <category term="技术" scheme="https://suochina.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="博客优化" scheme="https://suochina.github.io/categories/%E6%8A%80%E6%9C%AF/%E5%8D%9A%E5%AE%A2%E4%BC%98%E5%8C%96/"/>
+    
+    
+    <category term="Hexo" scheme="https://suochina.github.io/tags/Hexo/"/>
+    
+    <category term="图片处理" scheme="https://suochina.github.io/tags/%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86/"/>
+    
+    <category term="教程" scheme="https://suochina.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>

@@ -4,6 +4,77 @@
   
     
     <entry>
+      <title>typora学习</title>
+      <link href="/2025/10/02/typora%E5%AD%A6%E4%B9%A0/"/>
+      <url>/2025/10/02/typora%E5%AD%A6%E4%B9%A0/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>2025年10月学习规划</title>
+      <link href="//october-learning-plan/"/>
+      <url>//october-learning-plan/</url>
+      
+        <content type="html"><![CDATA[<h1 id="📅-2025年10月学习规划"><a href="#📅-2025年10月学习规划" class="headerlink" title="📅 2025年10月学习规划"></a>📅 2025年10月学习规划</h1><h2 id="🎯-学习目标"><a href="#🎯-学习目标" class="headerlink" title="🎯 学习目标"></a>🎯 学习目标</h2><p>国庆假期期间，为自己制定一些简单的学习目标，在放松的同时充实技术知识。</p><hr><h2 id="📚-技术学习"><a href="#📚-技术学习" class="headerlink" title="📚 技术学习"></a>📚 技术学习</h2><h3 id="🔧-编程技能复习"><a href="#🔧-编程技能复习" class="headerlink" title="🔧 编程技能复习"></a>🔧 编程技能复习</h3><ul><li><input disabled="" type="checkbox"> <strong>函数式编程复习</strong> - 整理学习笔记到博客</li><li><input disabled="" type="checkbox"> <strong>Git操作实践</strong> - 系统梳理Git工作流程并整理博客</li><li><input disabled="" type="checkbox"> <strong>Linux系统学习</strong> - 掌握常用命令并整理学习笔记</li><li><input disabled="" type="checkbox"> <strong>未完成项目整理</strong> - 梳理并规划项目完成计划</li></ul><hr><h2 id="🚀-个人技能提升"><a href="#🚀-个人技能提升" class="headerlink" title="🚀 个人技能提升"></a>🚀 个人技能提升</h2><h3 id="🤖-AI工具学习"><a href="#🤖-AI工具学习" class="headerlink" title="🤖 AI工具学习"></a>🤖 AI工具学习</h3><ul><li><input disabled="" type="checkbox"> <strong>AI Cursor使用总结</strong> - 整理使用经验和最佳实践</li><li><input disabled="" type="checkbox"> <strong>MCP协议学习</strong> - 了解Model Context Protocol的基本概念和应用</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 规划 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 学习规划 </tag>
+            
+            <tag> 技术提升 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>图片处理示例</title>
+      <link href="//image-handling-example/"/>
+      <url>//image-handling-example/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Hexo博客图片处理最佳实践"><a href="#Hexo博客图片处理最佳实践" class="headerlink" title="Hexo博客图片处理最佳实践"></a>Hexo博客图片处理最佳实践</h1><h2 id="🎯-方案对比"><a href="#🎯-方案对比" class="headerlink" title="🎯 方案对比"></a>🎯 方案对比</h2><h3 id="方案1-使用source-images文件夹-推荐"><a href="#方案1-使用source-images文件夹-推荐" class="headerlink" title="方案1: 使用source&#x2F;images文件夹 (推荐)"></a>方案1: 使用source&#x2F;images文件夹 (推荐)</h3><p>这是最简单可靠的方法：</p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![<span class="string">技术架构图</span>](<span class="link">/images/tech-architecture.png</span>)</span><br></pre></td></tr></table></figure><p><strong>优点:</strong></p><ul><li>✅ 图片自动部署到GitHub</li><li>✅ 路径简单，不易出错</li><li>✅ 本地和线上路径一致</li></ul><h3 id="方案2-使用CDN加速"><a href="#方案2-使用CDN加速" class="headerlink" title="方案2: 使用CDN加速"></a>方案2: 使用CDN加速</h3><h4 id="jsDelivr-GitHub"><a href="#jsDelivr-GitHub" class="headerlink" title="jsDelivr + GitHub"></a>jsDelivr + GitHub</h4><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![<span class="string">图片</span>](<span class="link">https://cdn.jsdelivr.net/gh/suoChina/suoChina.github.io@main/images/图片名.jpg</span>)</span><br></pre></td></tr></table></figure><h4 id="GitHub-Raw"><a href="#GitHub-Raw" class="headerlink" title="GitHub Raw"></a>GitHub Raw</h4><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![<span class="string">图片</span>](<span class="link">https://raw.githubusercontent.com/suoChina/suoChina.github.io/main/images/图片名.jpg</span>)</span><br></pre></td></tr></table></figure><p><strong>优点:</strong></p><ul><li>✅ 加载速度快</li><li>✅ 减少GitHub仓库大小</li><li>✅ 支持图片压缩</li></ul><h3 id="方案3-文章资源文件夹"><a href="#方案3-文章资源文件夹" class="headerlink" title="方案3: 文章资源文件夹"></a>方案3: 文章资源文件夹</h3><p>创建与文章同名的文件夹：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">source/_posts/</span><br><span class="line">├── 图片处理示例.md</span><br><span class="line">└── 图片处理示例/</span><br><span class="line">    ├── example1.png</span><br><span class="line">    └── example2.jpg</span><br></pre></td></tr></table></figure><p>在markdown中使用：</p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">![<span class="string">示例图片1</span>](<span class="link">图片处理示例/example1.png</span>)</span><br><span class="line">![<span class="string">示例图片2</span>](<span class="link">图片处理示例/example2.jpg</span>)</span><br></pre></td></tr></table></figure><h2 id="🛠️-实际操作步骤"><a href="#🛠️-实际操作步骤" class="headerlink" title="🛠️ 实际操作步骤"></a>🛠️ 实际操作步骤</h2><h3 id="1-创建图片文件夹"><a href="#1-创建图片文件夹" class="headerlink" title="1. 创建图片文件夹"></a>1. 创建图片文件夹</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">mkdir</span> <span class="built_in">source</span>/images</span><br></pre></td></tr></table></figure><h3 id="2-放置图片文件"><a href="#2-放置图片文件" class="headerlink" title="2. 放置图片文件"></a>2. 放置图片文件</h3><p>将图片文件放在 <code>source/images/</code> 目录下</p><h3 id="3-在文章中使用"><a href="#3-在文章中使用" class="headerlink" title="3. 在文章中使用"></a>3. 在文章中使用</h3><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![<span class="string">图片描述</span>](<span class="link">/images/图片文件名.jpg</span>)</span><br></pre></td></tr></table></figure><h3 id="4-重新生成和部署"><a href="#4-重新生成和部署" class="headerlink" title="4. 重新生成和部署"></a>4. 重新生成和部署</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">npx hexo clean</span><br><span class="line">npx hexo generate</span><br><span class="line">npx hexo deploy</span><br></pre></td></tr></table></figure><h2 id="📝-最佳实践建议"><a href="#📝-最佳实践建议" class="headerlink" title="📝 最佳实践建议"></a>📝 最佳实践建议</h2><h3 id="图片命名规范"><a href="#图片命名规范" class="headerlink" title="图片命名规范"></a>图片命名规范</h3><ul><li>使用英文和数字</li><li>避免特殊字符和中文</li><li>使用描述性名称</li></ul><h3 id="图片格式选择"><a href="#图片格式选择" class="headerlink" title="图片格式选择"></a>图片格式选择</h3><ul><li><strong>PNG</strong>: 适合图标、截图、透明背景</li><li><strong>JPG</strong>: 适合照片、复杂图片</li><li><strong>WebP</strong>: 现代格式，体积小，质量高</li><li><strong>SVG</strong>: 矢量图，适合图标和简单图形</li></ul><h3 id="图片SEO优化"><a href="#图片SEO优化" class="headerlink" title="图片SEO优化"></a>图片SEO优化</h3><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![<span class="string">Vue.js组件生命周期图 - 详细展示了Vue组件的创建、更新和销毁过程</span>](<span class="link">/images/vue-lifecycle.png</span>)</span><br></pre></td></tr></table></figure><h2 id="🔍-常见问题排查"><a href="#🔍-常见问题排查" class="headerlink" title="🔍 常见问题排查"></a>🔍 常见问题排查</h2><h3 id="问题1-图片显示为链接"><a href="#问题1-图片显示为链接" class="headerlink" title="问题1: 图片显示为链接"></a>问题1: 图片显示为链接</h3><p><strong>原因</strong>: 图片路径错误或文件不存在<br><strong>解决</strong>: 检查文件路径和文件名</p><h3 id="问题2-本地显示正常，线上不显示"><a href="#问题2-本地显示正常，线上不显示" class="headerlink" title="问题2: 本地显示正常，线上不显示"></a>问题2: 本地显示正常，线上不显示</h3><p><strong>原因</strong>: 图片文件未部署到GitHub<br><strong>解决</strong>: 确保图片在source目录下</p><h3 id="问题3-图片加载慢"><a href="#问题3-图片加载慢" class="headerlink" title="问题3: 图片加载慢"></a>问题3: 图片加载慢</h3><p><strong>原因</strong>: 图片文件过大或网络问题<br><strong>解决</strong>: 压缩图片或使用CDN</p><h2 id="🎯-推荐实施步骤"><a href="#🎯-推荐实施步骤" class="headerlink" title="🎯 推荐实施步骤"></a>🎯 推荐实施步骤</h2><ol><li><strong>立即</strong>: 使用source&#x2F;images方案解决当前问题</li><li><strong>短期</strong>: 优化图片大小和格式</li><li><strong>长期</strong>: 考虑使用CDN加速</li><li><strong>持续</strong>: 建立图片管理规范</li></ol><hr><h2 id="💡-总结"><a href="#💡-总结" class="headerlink" title="💡 总结"></a>💡 总结</h2><p>选择合适的图片处理方案对于博客的加载速度和用户体验非常重要。建议从简单的source&#x2F;images方案开始，随着博客内容增加再考虑使用CDN加速。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+          <category> 博客优化 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> 图片处理 </tag>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2025/10/02/hello-world/"/>
       <url>/2025/10/02/hello-world/</url>
