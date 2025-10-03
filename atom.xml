@@ -6,7 +6,7 @@
   <link href="https://suochina.github.io/atom.xml" rel="self"/>
   
   <link href="https://suochina.github.io/"/>
-  <updated>2025-10-02T03:32:44.000Z</updated>
+  <updated>2025-10-02T17:39:44.913Z</updated>
   <id>https://suochina.github.io/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>git操作指南</title>
+    <link href="https://suochina.github.io/2025/10/03/git%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97/"/>
+    <id>https://suochina.github.io/2025/10/03/git%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97/</id>
+    <published>2025-10-02T17:39:44.000Z</published>
+    <updated>2025-10-02T17:39:44.913Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Java函数式编程详解：从Lambda到Stream的完整指南</title>
@@ -33,6 +46,8 @@
     <category term="编程思想" scheme="https://suochina.github.io/categories/Java%E6%8A%80%E6%9C%AF/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/"/>
     
     <category term="Lambda" scheme="https://suochina.github.io/categories/Java%E6%8A%80%E6%9C%AF/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/Lambda/"/>
+    
+    <category term="Stream" scheme="https://suochina.github.io/categories/Java%E6%8A%80%E6%9C%AF/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/Lambda/Stream/"/>
     
     
     <category term="Java" scheme="https://suochina.github.io/tags/Java/"/>
