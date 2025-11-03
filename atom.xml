@@ -6,7 +6,7 @@
   <link href="https://suochina.github.io/atom.xml" rel="self"/>
   
   <link href="https://suochina.github.io/"/>
-  <updated>2025-10-05T17:48:20.126Z</updated>
+  <updated>2025-11-03T14:00:00.000Z</updated>
   <id>https://suochina.github.io/</id>
   
   <author>
@@ -17,15 +17,27 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="https://suochina.github.io/2025/10/06/linux%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
-    <id>https://suochina.github.io/2025/10/06/linux%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</id>
-    <published>2025-10-05T17:48:20.126Z</published>
-    <updated>2025-10-05T17:48:20.126Z</updated>
+    <title>Linux基础命令 - 从入门到精通</title>
+    <link href="https://suochina.github.io/linux-basic-commands/"/>
+    <id>https://suochina.github.io/linux-basic-commands/</id>
+    <published>2025-11-03T14:00:00.000Z</published>
+    <updated>2025-11-03T14:00:00.000Z</updated>
+    
+    
+    <summary type="html">Linux基础命令完整教程，从目录操作到文件管理，从查找命令到vi编辑器，帮助你快速掌握Linux命令行</summary>
     
     
     
+    <category term="开发工具" scheme="https://suochina.github.io/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
     
+    
+    <category term="开发工具" scheme="https://suochina.github.io/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="Linux" scheme="https://suochina.github.io/tags/Linux/"/>
+    
+    <category term="命令行" scheme="https://suochina.github.io/tags/%E5%91%BD%E4%BB%A4%E8%A1%8C/"/>
+    
+    <category term="操作系统" scheme="https://suochina.github.io/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
     
   </entry>
   
