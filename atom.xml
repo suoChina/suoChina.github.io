@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>我的新博客</title>
+  <title>SuoL&#39;s Blog</title>
   
   <subtitle>厚积薄发</subtitle>
   <link href="https://suochina.github.io/atom.xml" rel="self"/>
   
   <link href="https://suochina.github.io/"/>
-  <updated>2025-11-03T14:00:00.000Z</updated>
+  <updated>2025-11-09T15:00:00.000Z</updated>
   <id>https://suochina.github.io/</id>
   
   <author>
@@ -17,14 +17,41 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>编程工具快捷键大全 - 效率提升必备指南</title>
+    <link href="https://suochina.github.io/programming-shortcuts-guide/"/>
+    <id>https://suochina.github.io/programming-shortcuts-guide/</id>
+    <published>2025-11-09T15:00:00.000Z</published>
+    <updated>2025-11-09T15:00:00.000Z</updated>
+    
+    
+    <summary type="html">全面收录主流编程工具的快捷键，包括IntelliJ IDEA、VS Code、Chrome DevTools等，帮助开发者大幅提升编码效率（持续更新中）</summary>
+    
+    
+    
+    <category term="开发工具" scheme="https://suochina.github.io/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="开发工具" scheme="https://suochina.github.io/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="快捷键" scheme="https://suochina.github.io/tags/%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+    
+    <category term="效率提升" scheme="https://suochina.github.io/tags/%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87/"/>
+    
+    <category term="IDE" scheme="https://suochina.github.io/tags/IDE/"/>
+    
+    <category term="编辑器" scheme="https://suochina.github.io/tags/%E7%BC%96%E8%BE%91%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Linux基础命令 - 从入门到精通</title>
     <link href="https://suochina.github.io/linux-basic-commands/"/>
     <id>https://suochina.github.io/linux-basic-commands/</id>
     <published>2025-11-03T14:00:00.000Z</published>
-    <updated>2025-11-03T14:00:00.000Z</updated>
+    <updated>2025-11-09T14:00:00.000Z</updated>
     
     
-    <summary type="html">Linux基础命令完整教程，从目录操作到文件管理，从查找命令到vi编辑器，帮助你快速掌握Linux命令行</summary>
+    <summary type="html">Linux基础命令完整教程，从目录操作到文件管理，从查找命令到vi编辑器，再到用户权限管理和实用操作，帮助你快速掌握Linux命令行</summary>
     
     
     
