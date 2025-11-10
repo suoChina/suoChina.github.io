@@ -48,10 +48,10 @@
     <link href="https://suochina.github.io/programming-shortcuts-guide/"/>
     <id>https://suochina.github.io/programming-shortcuts-guide/</id>
     <published>2025-11-09T15:00:00.000Z</published>
-    <updated>2025-11-09T15:00:00.000Z</updated>
+    <updated>2025-11-09T16:30:00.000Z</updated>
     
     
-    <summary type="html">全面收录主流编程工具的快捷键，包括IntelliJ IDEA、VS Code、Chrome DevTools等，帮助开发者大幅提升编码效率（持续更新中）</summary>
+    <summary type="html">全面收录主流编程工具的快捷键，深度解析IntelliJ IDEA 100+快捷键，涵盖编辑、导航、重构、调试全方位操作，帮助开发者大幅提升编码效率（持续更新中）</summary>
     
     
     
@@ -67,6 +67,8 @@
     <category term="IDE" scheme="https://suochina.github.io/tags/IDE/"/>
     
     <category term="编辑器" scheme="https://suochina.github.io/tags/%E7%BC%96%E8%BE%91%E5%99%A8/"/>
+    
+    <category term="IntelliJ IDEA" scheme="https://suochina.github.io/tags/IntelliJ-IDEA/"/>
     
   </entry>
   
