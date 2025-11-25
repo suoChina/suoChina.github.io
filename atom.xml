@@ -71,6 +71,33 @@
   </entry>
   
   <entry>
+    <title>Java反射与注解学习指南 - 从入门到实战</title>
+    <link href="https://suochina.github.io/java-reflection-annotation-guide/"/>
+    <id>https://suochina.github.io/java-reflection-annotation-guide/</id>
+    <published>2025-11-24T15:30:00.000Z</published>
+    <updated>2025-11-24T15:30:00.000Z</updated>
+    
+    
+    <summary type="html">全面学习Java反射和注解机制，从基础概念到实战应用，掌握反射API、注解定义、注解处理等核心知识，为框架开发打下坚实基础</summary>
+    
+    
+    
+    <category term="Java技术" scheme="https://suochina.github.io/categories/Java%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="Java" scheme="https://suochina.github.io/tags/Java/"/>
+    
+    <category term="反射" scheme="https://suochina.github.io/tags/%E5%8F%8D%E5%B0%84/"/>
+    
+    <category term="注解" scheme="https://suochina.github.io/tags/%E6%B3%A8%E8%A7%A3/"/>
+    
+    <category term="元编程" scheme="https://suochina.github.io/tags/%E5%85%83%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="框架开发" scheme="https://suochina.github.io/tags/%E6%A1%86%E6%9E%B6%E5%BC%80%E5%8F%91/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Redis中间件学习指南 - 从入门到实战</title>
     <link href="https://suochina.github.io/redis-learning-guide/"/>
     <id>https://suochina.github.io/redis-learning-guide/</id>
