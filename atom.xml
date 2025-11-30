@@ -98,6 +98,33 @@
   </entry>
   
   <entry>
+    <title>Java泛型学习指南 - 从入门到精通</title>
+    <link href="https://suochina.github.io/java-generics-guide/"/>
+    <id>https://suochina.github.io/java-generics-guide/</id>
+    <published>2025-11-24T15:30:00.000Z</published>
+    <updated>2025-11-24T15:30:00.000Z</updated>
+    
+    
+    <summary type="html">全面学习Java泛型机制，从基础概念到高级应用，掌握泛型类、泛型接口、泛型方法、通配符、类型擦除等核心知识，提升代码的类型安全性和可读性</summary>
+    
+    
+    
+    <category term="Java技术" scheme="https://suochina.github.io/categories/Java%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="Java" scheme="https://suochina.github.io/tags/Java/"/>
+    
+    <category term="泛型" scheme="https://suochina.github.io/tags/%E6%B3%9B%E5%9E%8B/"/>
+    
+    <category term="Generics" scheme="https://suochina.github.io/tags/Generics/"/>
+    
+    <category term="类型安全" scheme="https://suochina.github.io/tags/%E7%B1%BB%E5%9E%8B%E5%AE%89%E5%85%A8/"/>
+    
+    <category term="集合框架" scheme="https://suochina.github.io/tags/%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Redis中间件学习指南 - 从入门到实战</title>
     <link href="https://suochina.github.io/redis-learning-guide/"/>
     <id>https://suochina.github.io/redis-learning-guide/</id>
